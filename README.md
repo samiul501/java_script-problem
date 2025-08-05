@@ -11,10 +11,4 @@ Each solution is written in a clean and beginner-friendly style, with comments t
 - Organized by topic (Arrays, Linked Lists, etc.)
 
 Problems Included
-Two Sum
-
-Fruit Into Baskets
-
-Add Two Numbers (Linked List)
-
-More problems coming soon...
+Basic peoblem
